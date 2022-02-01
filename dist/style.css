@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: rgb(0, 0, 0);
+    --secondary: rgb(164, 170, 248);
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#navbar {
+    background: linear-gradient(rgb(5, 5, 12),rgb(70, 29, 94));
+    color: var(--secondary);
+    font-size: 50px;
+}
+
+.navbar-brand {
+    font-size: 60px;
+}
+
+
+.card-header {
+    background: linear-gradient(rgb(70, 29, 94),rgb(5, 5, 12));
+    color: var(--secondary);
+}
+
+.card-body {
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+    
+    
+}
+
+
