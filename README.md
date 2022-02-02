@@ -15,7 +15,8 @@ This app is a  node command line interface that allows a user to add team member
 
 <br />
 
-![alt text](screenshot.png)
+![alt text](./assests/screenshot.png)
+
 
 # License
 Copyright <2022> <Pabitra Tamang>
