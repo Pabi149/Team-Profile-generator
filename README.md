@@ -10,7 +10,7 @@ This app is a  node command line interface that allows a user to add team member
 -contributor <br/>
 -Test
 # Usage
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1643769049/video_to_markdown/images/google-drive--1giLNZZPzXtK5QmUCZL355KDxFZOXSfuK-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1giLNZZPzXtK5QmUCZL355KDxFZOXSfuK/preview "")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1643771040/video_to_markdown/images/google-drive--1s1lSq27e-rhYc8CDW7xlXF1sRsfwFc5M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1s1lSq27e-rhYc8CDW7xlXF1sRsfwFc5M/preview "")
 
 
 <br />
