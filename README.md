@@ -4,13 +4,13 @@
 This app is a  node command line interface that allows a user to add team members to their team and display all the information about their team memeber.
 
 # Table of content
--Installation
--Usage
--License
--contributor
+-Installation <br/>
+-Usage <br/>
+-License <br/>
+-contributor <br/>
 -Test
 # Usage
-
+<iframe src="https://drive.google.com/file/d/1giLNZZPzXtK5QmUCZL355KDxFZOXSfuK/preview" width="640" height="480"></iframe>
 # License
 Copyright <2022> <Pabitra Tamang>
 
